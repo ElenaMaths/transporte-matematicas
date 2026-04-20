@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260420132104DTJ48H</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260420132104TZV7CN</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>¿Qué transporte me conviene?</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Elena Amelia Jiménez Aragón</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje dirigida a 1º de ESO en la que el alumnado analiza distintas opciones de transporte en función de la distancia recorrida, utilizando tablas y gráficas para interpretar la relación entre magnitudes y tomar decisiones fundamentadas.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776682159385</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>be4e58d5-a823-462a-acab-aa3ae254a51a</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Inicio</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>be4e58d5-a823-462a-acab-aa3ae254a51a</odePageId>
+      <odeBlockId>block-1776682040846-ns8k83l4v</odeBlockId>
+      <blockName>Aprende a tomar decisiones con las matemáticas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>be4e58d5-a823-462a-acab-aa3ae254a51a</odePageId>
+          <odeBlockId>block-1776682040846-ns8k83l4v</odeBlockId>
+          <odeIdeviceId>idevice-1776682040845-47bgrjuvu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta situación de aprendizaje vas a trabajar como en la vida real: tendrás que decidir qué transporte es más conveniente según la distancia que recorras.</p>
+<p>A través de diferentes actividades, aprenderás a:</p>
+<p>Organizar datos en tablas<br />Representar información en gráficas<br />Comparar resultados<br />Sacar conclusiones<br />Todo ello utilizando herramientas digitales como hojas de cálculo y recursos interactivos.</p>
+<p><strong>¿Serás capaz de elegir la mejor opción en cada caso?</strong></p>
+<p><strong></strong></p>
+<p><strong><img src="{{context_path}}/content/resources/imagen portada.JPG" title="Portada" width="759" height="435" alt="" /></strong></p>
+<p>Imagen: Freepik (licencia gratuita)</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776682040845-47bgrjuvu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta situación de aprendizaje vas a trabajar como en la vida real: tendrás que decidir qué transporte es más conveniente según la distancia que recorras.</p>\n<p>A través de diferentes actividades, aprenderás a:</p>\n<p>Organizar datos en tablas<br />Representar información en gráficas<br />Comparar resultados<br />Sacar conclusiones<br />Todo ello utilizando herramientas digitales como hojas de cálculo y recursos interactivos.</p>\n<p><strong>¿Serás capaz de elegir la mejor opción en cada caso?</strong></p>\n<p><strong></strong></p>\n<p><strong><img src=\"{{context_path}}/content/resources/imagen portada.JPG\" title=\"Portada\" width=\"759\" height=\"435\" alt=\"\" /></strong></p>\n<p>Imagen: Freepik (licencia gratuita)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776681835026-dp9a1uyx5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776681835026-dp9a1uyx5</odePageId>
+      <odeBlockId>block-1776682188255-xigt7sl7h</odeBlockId>
+      <blockName>Presentación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776681835026-dp9a1uyx5</odePageId>
+          <odeBlockId>block-1776682188255-xigt7sl7h</odeBlockId>
+          <odeIdeviceId>idevice-1776682188253-k4lvd36go</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación, se presenta la situación de aprendizaje “¿Qué transporte me conviene?”, donde se plantea un reto cercano al alumnado: decidir qué opción de transporte es más adecuada en función de la distancia.</p>
+<p>A lo largo del proyecto, se trabajarán contenidos matemáticos relacionados con la interpretación de datos, la representación gráfica y la toma de decisiones en contextos reales.</p>
+<p><a href="https://view.genially.com/69c151ba393b852afd028fd8" target="_blank" rel="noopener" title="">Presentación. Genially</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776682188253-k4lvd36go","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación, se presenta la situación de aprendizaje “¿Qué transporte me conviene?”, donde se plantea un reto cercano al alumnado: decidir qué opción de transporte es más adecuada en función de la distancia.</p>\n<p>A lo largo del proyecto, se trabajarán contenidos matemáticos relacionados con la interpretación de datos, la representación gráfica y la toma de decisiones en contextos reales.</p>\n<p><a href=\"https://view.genially.com/69c151ba393b852afd028fd8\" target=\"_blank\" rel=\"noopener\" title=\"\">Presentación. Genially</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776681836227-q4va8jk6x</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Situación de aprendizaje</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Situación de aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Situación de aprendizaje</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776681836227-q4va8jk6x</odePageId>
+      <odeBlockId>block-1776682347391-rdb8arh4r</odeBlockId>
+      <blockName>Tu misión</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776681836227-q4va8jk6x</odePageId>
+          <odeBlockId>block-1776682347391-rdb8arh4r</odeBlockId>
+          <odeIdeviceId>idevice-1776682347388-qooqt7qzj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Imagina que durante la semana tienes que moverte por tu ciudad para ir a distintos sitios: el instituto, el polideportivo, la academia o el cine.</p>
+<p>Pero no siempre sabes qué transporte te conviene más…</p>
+<p><strong>Tu misión será analizar distintas opciones y decidir cuál es la mejor en cada caso.</strong></p>
+<p> <br /><strong>Situaciones reales</strong><br />Estos son algunos de los recorridos que puedes hacer en tu día a día:</p>
+<p>🏠➡️🏫 De casa al instituto → 2 km<br />🏠➡️🏟️ De casa al polideportivo → 4 km<br />🏟️➡️📚 Del polideportivo a la academia → 1,5 km<br />🏠➡️🛍️ De casa al centro comercial → 6 km<br />🏠➡️🎬 De casa al cine → 3 km<br /> <br /><strong>pciones de transporte</strong><br />Podrás elegir entre:</p>
+<p>🚌 Autobús → precio fijo: 1,50 €<br />🛴 Patinete → 0,20 € por km<br />🚗 Coche → 1 € fijo + 0,10 € por km<br /> <br /><strong>¿Qué tendrás que hacer?</strong><br />A lo largo de este proyecto tendrás que:</p>
+<p>Organizar datos en tablas<br />Calcular precios<br />Representar gráficas<br />Comparar resultados<br />Sacar conclusiones<br /> <br /><strong>Preguntas clave</strong><br />¿Qué transporte es más barato?<br />¿Depende de la distancia?<br />¿A partir de qué distancia cambia la mejor opción?<br /> <br /><strong>Piensa como en la vida real</strong><br />No se trata solo de hacer cuentas…Se trata de tomar decisiones con sentido.</p>
+<p></p>
+<p><img src="{{context_path}}/content/resources/58320-O97E7C-36.jpg" title="mapa ciudad" width="1536" height="1536" alt="" /></p>
+<p>Imagen: Freepik (licencia gratuita)</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776682347388-qooqt7qzj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Imagina que durante la semana tienes que moverte por tu ciudad para ir a distintos sitios: el instituto, el polideportivo, la academia o el cine.</p>\n<p>Pero no siempre sabes qué transporte te conviene más…</p>\n<p><strong>Tu misión será analizar distintas opciones y decidir cuál es la mejor en cada caso.</strong></p>\n<p> <br /><strong>Situaciones reales</strong><br />Estos son algunos de los recorridos que puedes hacer en tu día a día:</p>\n<p>🏠➡️🏫 De casa al instituto → 2 km<br />🏠➡️🏟️ De casa al polideportivo → 4 km<br />🏟️➡️📚 Del polideportivo a la academia → 1,5 km<br />🏠➡️🛍️ De casa al centro comercial → 6 km<br />🏠➡️🎬 De casa al cine → 3 km<br /> <br /><strong>pciones de transporte</strong><br />Podrás elegir entre:</p>\n<p>🚌 Autobús → precio fijo: 1,50 €<br />🛴 Patinete → 0,20 € por km<br />🚗 Coche → 1 € fijo + 0,10 € por km<br /> <br /><strong>¿Qué tendrás que hacer?</strong><br />A lo largo de este proyecto tendrás que:</p>\n<p>Organizar datos en tablas<br />Calcular precios<br />Representar gráficas<br />Comparar resultados<br />Sacar conclusiones<br /> <br /><strong>Preguntas clave</strong><br />¿Qué transporte es más barato?<br />¿Depende de la distancia?<br />¿A partir de qué distancia cambia la mejor opción?<br /> <br /><strong>Piensa como en la vida real</strong><br />No se trata solo de hacer cuentas…Se trata de tomar decisiones con sentido.</p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/58320-O97E7C-36.jpg\" title=\"mapa ciudad\" width=\"1536\" height=\"1536\" alt=\"\" /></p>\n<p>Imagen: Freepik (licencia gratuita)</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776681837542-8ewjcqu3p</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Recursos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776681837542-8ewjcqu3p</odePageId>
+      <odeBlockId>block-1776682495963-hjdxr0vd9</odeBlockId>
+      <blockName>Recursos a trabajar</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776681837542-8ewjcqu3p</odePageId>
+          <odeBlockId>block-1776682495963-hjdxr0vd9</odeBlockId>
+          <odeIdeviceId>idevice-1776682495961-tt5p40h52</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A lo largo del proyecto dispondrás de diferentes recursos digitales que te ayudarán a comprender mejor los contenidos y a realizar las actividades propuestas.</p>
+<p>Estos recursos te permitirán aprender de forma visual, interactiva y autónoma.</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776682495961-tt5p40h52","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A lo largo del proyecto dispondrás de diferentes recursos digitales que te ayudarán a comprender mejor los contenidos y a realizar las actividades propuestas.</p>\n<p>Estos recursos te permitirán aprender de forma visual, interactiva y autónoma.</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776681837542-8ewjcqu3p</odePageId>
+      <odeBlockId>block-1776682614505-42eflegyy</odeBlockId>
+      <blockName>Padlet</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776681837542-8ewjcqu3p</odePageId>
+          <odeBlockId>block-1776682614505-42eflegyy</odeBlockId>
+          <odeIdeviceId>idevice-1776682614504-vyv1if4m3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/q5nfgs18kau5kh0a" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write"></iframe></p>
+<div style="display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;"><a href="https://padlet.com?ref=embed" style="display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;" target="_blank" rel="noopener"><span aria-hidden="" style="color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;">Made with</span><img src="https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png" height="12" style="padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;" alt="Hecho con Padlet" /></a></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776682614504-vyv1if4m3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/q5nfgs18kau5kh0a\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\"></iframe></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made with</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;\" alt=\"Hecho con Padlet\" /></a></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776681837542-8ewjcqu3p</odePageId>
+      <odeBlockId>block-1776682711899-ynmhrlzdf</odeBlockId>
+      <blockName>Recursos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776681837542-8ewjcqu3p</odePageId>
+          <odeBlockId>block-1776682711899-ynmhrlzdf</odeBlockId>
+          <odeIdeviceId>idevice-1776682711897-012asmpsl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.symbaloo.com/shared/AAAAA5V8-VYAA41_W3NTiQ==" title="">Symbaloo</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776682711897-012asmpsl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.symbaloo.com/shared/AAAAA5V8-VYAA41_W3NTiQ==\" title=\"\">Symbaloo</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776681847645-rc2tdbqmu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividades</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Actividades</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776681847645-rc2tdbqmu</odePageId>
+      <odeBlockId>block-1776682819611-z4t09781k</odeBlockId>
+      <blockName>Desarrollo del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776681847645-rc2tdbqmu</odePageId>
+          <odeBlockId>block-1776682819611-z4t09781k</odeBlockId>
+          <odeIdeviceId>idevice-1776682819608-c9eh0tvte</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A lo largo de varias sesiones, irás realizando diferentes actividades que te ayudarán a comprender el problema, analizar los datos y tomar decisiones fundamentadas.</p>
+<p>Cada sesión tiene un objetivo concreto y te permitirá avanzar paso a paso en el proyecto.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776682819608-c9eh0tvte","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A lo largo de varias sesiones, irás realizando diferentes actividades que te ayudarán a comprender el problema, analizar los datos y tomar decisiones fundamentadas.</p>\n<p>Cada sesión tiene un objetivo concreto y te permitirá avanzar paso a paso en el proyecto.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776681847645-rc2tdbqmu</odePageId>
+      <odeBlockId>block-1776682855742-0vf9zcg4t</odeBlockId>
+      <blockName>Organizar por sesiones</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776681847645-rc2tdbqmu</odePageId>
+          <odeBlockId>block-1776682855742-0vf9zcg4t</odeBlockId>
+          <odeIdeviceId>idevice-1776682855741-4uc7zzfj0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Sesión 1: Presentación del reto</strong><br />Se introduce el problema y se analizan las situaciones reales.</p>
+<p> <br /><strong>Sesión 2: Organización de datos</strong><br />Se crea una tabla con los recorridos y precios.</p>
+<p><strong> </strong><br /><strong>Sesión 3: Cálculo de precios</strong><br />Se calculan los costes de cada transporte.</p>
+<p> <br /><strong>Sesión 4: Representación gráfica</strong><br />Se elaboran gráficas y se observa la relación entre distancia y precio.</p>
+<p> <br /><strong>Sesión 5: Análisis e interpretación</strong><br />Se comparan resultados y se sacan conclusiones.</p>
+<p> <br /><strong>Sesión 6: Producto final</strong><br />Se elabora una infografía con las conclusiones.</p>
+<p> <br /><strong>Sesión 7: Exposición y cierre</strong><br />Se presentan los resultados y se realiza un debate final.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776682855741-4uc7zzfj0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Sesión 1: Presentación del reto</strong><br />Se introduce el problema y se analizan las situaciones reales.</p>\n<p> <br /><strong>Sesión 2: Organización de datos</strong><br />Se crea una tabla con los recorridos y precios.</p>\n<p><strong> </strong><br /><strong>Sesión 3: Cálculo de precios</strong><br />Se calculan los costes de cada transporte.</p>\n<p> <br /><strong>Sesión 4: Representación gráfica</strong><br />Se elaboran gráficas y se observa la relación entre distancia y precio.</p>\n<p> <br /><strong>Sesión 5: Análisis e interpretación</strong><br />Se comparan resultados y se sacan conclusiones.</p>\n<p> <br /><strong>Sesión 6: Producto final</strong><br />Se elabora una infografía con las conclusiones.</p>\n<p> <br /><strong>Sesión 7: Exposición y cierre</strong><br />Se presentan los resultados y se realiza un debate final.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776681847645-rc2tdbqmu</odePageId>
+      <odeBlockId>block-1776683037510-9s683o794</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776681847645-rc2tdbqmu</odePageId>
+          <odeBlockId>block-1776683037510-9s683o794</odeBlockId>
+          <odeIdeviceId>idevice-1776683037508-0qeosq7gs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="{{context_path}}/content/resources/tarea 7.1. linea temporal.pdf" title="tarea 7.1. linea temporal.pdf" target="_blank" rel="noopener">Pulsa aquí para ver la línea temporal</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776683037508-0qeosq7gs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"{{context_path}}/content/resources/tarea 7.1. linea temporal.pdf\" title=\"tarea 7.1. linea temporal.pdf\" target=\"_blank\" rel=\"noopener\">Pulsa aquí para ver la línea temporal</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776681847645-rc2tdbqmu</odePageId>
+      <odeBlockId>block-1776683227197-nmb0g75ek</odeBlockId>
+      <blockName>¿Cómo vas a trabajar?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776681847645-rc2tdbqmu</odePageId>
+          <odeBlockId>block-1776683227197-nmb0g75ek</odeBlockId>
+          <odeIdeviceId>idevice-1776683227197-du0k1d8zj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En parejas y grupos<br />Utilizando herramientas digitales<br />Participando activamente en las actividades</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776683227197-du0k1d8zj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En parejas y grupos<br />Utilizando herramientas digitales<br />Participando activamente en las actividades</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776681848838-efergcq11</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776681848838-efergcq11</odePageId>
+      <odeBlockId>block-1776683283310-n0s2pprsg</odeBlockId>
+      <blockName>Producto final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776681848838-efergcq11</odePageId>
+          <odeBlockId>block-1776683283310-n0s2pprsg</odeBlockId>
+          <odeIdeviceId>idevice-1776683283308-561puomr7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Al finalizar el proyecto, tendrás que elaborar una infografía en la que expliques qué transporte es más conveniente según la distancia recorrida.</p>
+<p> <br /><strong>¿Qué debes incluir?</strong><br />Tabla de datos (distancia y precio)<br />Gráficas<br />Comparación entre transportes<br />Conclusión final justificada<br /> <br /><strong>¿Cómo lo harás?</strong><br />Utilizarás herramientas digitales como:</p>
+<p>Google Sheets (para tablas y gráficas)<br />Canva (para la infografía)<br /> <br /><strong>¿Qué se valorará?</strong><br />Que los datos sean correctos<br />Que la gráfica esté bien representada<br />Que la conclusión tenga sentido<br />Que la información sea clara y visual<br /> <br /><br /></p>
+<p><strong>No se trata solo de calcular… sino de explicar y tomar decisiones con sentido.</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776683283308-561puomr7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Al finalizar el proyecto, tendrás que elaborar una infografía en la que expliques qué transporte es más conveniente según la distancia recorrida.</p>\n<p> <br /><strong>¿Qué debes incluir?</strong><br />Tabla de datos (distancia y precio)<br />Gráficas<br />Comparación entre transportes<br />Conclusión final justificada<br /> <br /><strong>¿Cómo lo harás?</strong><br />Utilizarás herramientas digitales como:</p>\n<p>Google Sheets (para tablas y gráficas)<br />Canva (para la infografía)<br /> <br /><strong>¿Qué se valorará?</strong><br />Que los datos sean correctos<br />Que la gráfica esté bien representada<br />Que la conclusión tenga sentido<br />Que la información sea clara y visual<br /> <br /><br /></p>\n<p><strong>No se trata solo de calcular… sino de explicar y tomar decisiones con sentido.</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1776681848838-efergcq11</odePageId>
+      <odeBlockId>block-1776683924625-g5pfqwevr</odeBlockId>
+      <blockName>Herramientas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776681848838-efergcq11</odePageId>
+          <odeBlockId>block-1776683924625-g5pfqwevr</odeBlockId>
+          <odeIdeviceId>idevice-1776683924623-ydtwo7ok2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Herramientas que vamos a utilizar</strong><br />Para realizar este proyecto utilizarás herramientas digitales que te ayudarán a trabajar de forma más visual y sencilla:</p>
+<p>Google Sheets: para organizar los datos y crear gráficas automáticamente<br />Canva: para diseñar una infografía clara y atractiva<br />Estas herramientas te permitirán centrarte en la interpretación de los resultados y en la toma de decisiones, en lugar de en los cálculos mecánicos.</p>
+<p> <br /><strong>¿Por qué usamos estas herramientas?</strong><br />Porque:</p>
+<p>Son fáciles de usar<br />Permiten visualizar mejor la información<br />Ayudan a comprender los datos<br />Favorecen el aprendizaje práctico</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776683924623-ydtwo7ok2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Herramientas que vamos a utilizar</strong><br />Para realizar este proyecto utilizarás herramientas digitales que te ayudarán a trabajar de forma más visual y sencilla:</p>\n<p>Google Sheets: para organizar los datos y crear gráficas automáticamente<br />Canva: para diseñar una infografía clara y atractiva<br />Estas herramientas te permitirán centrarte en la interpretación de los resultados y en la toma de decisiones, en lugar de en los cálculos mecánicos.</p>\n<p> <br /><strong>¿Por qué usamos estas herramientas?</strong><br />Porque:</p>\n<p>Son fáciles de usar<br />Permiten visualizar mejor la información<br />Ayudan a comprender los datos<br />Favorecen el aprendizaje práctico</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776681849993-pxgi63nlz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776681849993-pxgi63nlz</odePageId>
+      <odeBlockId>block-1776683342938-cjjil0oxk</odeBlockId>
+      <blockName>¿Cómo se evalúa?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776681849993-pxgi63nlz</odePageId>
+          <odeBlockId>block-1776683342938-cjjil0oxk</odeBlockId>
+          <odeIdeviceId>idevice-1776683342936-v48h9hj0a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación será continua y tendrá en cuenta tanto el proceso como el producto final.</p>
+<p>Se utilizarán diferentes instrumentos para recoger información y mejorar el aprendizaje:</p>
+<p>Rúbrica (producto final)<br />Lista de cotejo (trabajo en clase)<br />Cuestionario digital</p>
+<p></p>
+<p><a href="{{context_path}}/content/resources/tarea 8.pdf" title="tarea 8.pdf" target="_blank" rel="noopener">Evaluación SdA</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776683342936-v48h9hj0a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación será continua y tendrá en cuenta tanto el proceso como el producto final.</p>\n<p>Se utilizarán diferentes instrumentos para recoger información y mejorar el aprendizaje:</p>\n<p>Rúbrica (producto final)<br />Lista de cotejo (trabajo en clase)<br />Cuestionario digital</p>\n<p></p>\n<p><a href=\"{{context_path}}/content/resources/tarea 8.pdf\" title=\"tarea 8.pdf\" target=\"_blank\" rel=\"noopener\">Evaluación SdA</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776681850189-jxcmjn9of</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Seguridad y protección de datos</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad y protección de datos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Seguridad y protección de datos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776681850189-jxcmjn9of</odePageId>
+      <odeBlockId>block-1776683505010-gshnprfek</odeBlockId>
+      <blockName>Uso responsable de la tecnología</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776681850189-jxcmjn9of</odePageId>
+          <odeBlockId>block-1776683505010-gshnprfek</odeBlockId>
+          <odeIdeviceId>idevice-1776683505008-pj7iiuzci</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Durante este proyecto es importante hacer un uso responsable de las herramientas digitales, respetando la privacidad y los derechos de los demás.</p>
+<p><a href="{{context_path}}/content/resources/tarea 2.3. LICENCIAS Y SEGURIDAD.pdf" title="tarea 2.3. LICENCIAS Y SEGURIDAD.pdf" target="_blank" rel="noopener">Licencias y seguridad</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776683505008-pj7iiuzci","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Durante este proyecto es importante hacer un uso responsable de las herramientas digitales, respetando la privacidad y los derechos de los demás.</p>\n<p><a href=\"{{context_path}}/content/resources/tarea 2.3. LICENCIAS Y SEGURIDAD.pdf\" title=\"tarea 2.3. LICENCIAS Y SEGURIDAD.pdf\" target=\"_blank\" rel=\"noopener\">Licencias y seguridad</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776681850682-zpussax9i</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776681850682-zpussax9i</odePageId>
+      <odeBlockId>block-1776683572917-2w0wb7kli</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776681850682-zpussax9i</odePageId>
+          <odeBlockId>block-1776683572917-2w0wb7kli</odeBlockId>
+          <odeIdeviceId>idevice-1776683572916-g8kg2xycd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p> <strong>Nivel</strong><br />1º ESO – Matemáticas</p>
+<p> <br /><strong>Temporalización</strong><br />7 sesiones</p>
+<p> <br /><strong>Metodología</strong><br />Aprendizaje basado en problemas<br />Trabajo cooperativo<br />Uso de herramientas digitales<br /> <br /><strong>Atención a la diversidad</strong><br />Trabajo en parejas heterogéneas<br />Diferentes niveles de profundización<br />Apoyo guiado<br /> </p>
+<p><strong>Evaluación</strong><br />Rúbrica<br />Lista de cotejo<br />Cuestionario<br /> <br /><a href="https://docs.google.com/document/d/1oyF-vgpoeNRIIcruCk6CQA8vvl_8prg7_Rr5U8jw3GI/edit?usp=sharing"><strong title="">Relación tareas - criterios</strong></a><br /></p>
+<p> </p>
+<p><strong>Observaciones</strong><br />Necesidad de guiar el uso digital<br />Adaptación al ritmo del alumnado</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776683572916-g8kg2xycd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p> <strong>Nivel</strong><br />1º ESO – Matemáticas</p>\n<p> <br /><strong>Temporalización</strong><br />7 sesiones</p>\n<p> <br /><strong>Metodología</strong><br />Aprendizaje basado en problemas<br />Trabajo cooperativo<br />Uso de herramientas digitales<br /> <br /><strong>Atención a la diversidad</strong><br />Trabajo en parejas heterogéneas<br />Diferentes niveles de profundización<br />Apoyo guiado<br /> </p>\n<p><strong>Evaluación</strong><br />Rúbrica<br />Lista de cotejo<br />Cuestionario<br /> <br /><a href=\"https://docs.google.com/document/d/1oyF-vgpoeNRIIcruCk6CQA8vvl_8prg7_Rr5U8jw3GI/edit?usp=sharing\"><strong title=\"\">Relación tareas - criterios</strong></a><br /></p>\n<p> </p>\n<p><strong>Observaciones</strong><br />Necesidad de guiar el uso digital<br />Adaptación al ritmo del alumnado</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1776681850861-xj2lh7gzc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1776681850861-xj2lh7gzc</odePageId>
+      <odeBlockId>block-1776683671921-k0x7utevc</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1776681850861-xj2lh7gzc</odePageId>
+          <odeBlockId>block-1776683671921-k0x7utevc</odeBlockId>
+          <odeIdeviceId>idevice-1776683671920-zvt41wl8n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Autora</strong>: Elena Amelia Jiménez Aragón</p>
+<p><strong>Descripción</strong>:<br />Situación de aprendizaje para 1º de ESO centrada en la toma de decisiones a partir de la relación entre distancia y precio.</p>
+<p> <br /><strong>Licencia</strong>:<br />Creative Commons BY-NC-SA</p>
+<p> <br /><strong>Recursos utilizados:</strong></p>
+<p>Imágenes: Freepik / Pixabay<br />Herramientas: Google Sheets, Canva, Padlet, Symbaloo</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776683671920-zvt41wl8n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Autora</strong>: Elena Amelia Jiménez Aragón</p>\n<p><strong>Descripción</strong>:<br />Situación de aprendizaje para 1º de ESO centrada en la toma de decisiones a partir de la relación entre distancia y precio.</p>\n<p> <br /><strong>Licencia</strong>:<br />Creative Commons BY-NC-SA</p>\n<p> <br /><strong>Recursos utilizados:</strong></p>\n<p>Imágenes: Freepik / Pixabay<br />Herramientas: Google Sheets, Canva, Padlet, Symbaloo</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
