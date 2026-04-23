@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260423093744SZNV0K</value>
+    <value>202604230952479XCB5Q</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>2026042309374436QUVZ</value>
+    <value>20260423095247QYP9B2</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -56,7 +56,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1776929835604</value>
+    <value>1776930757691</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -89,7 +89,7 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-mob6581q-wyqx01nx5</odePageId>
+  <odePageId>page-mob6ozjd-haxandpae</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Inicio</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -125,7 +125,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mob6581q-wyqx01nx5</odePageId>
+      <odePageId>page-mob6ozjd-haxandpae</odePageId>
       <odeBlockId>block-1776682040846-ns8k83l4v</odeBlockId>
       <blockName>Aprende a tomar decisiones con las matemáticas</blockName>
       <iconName></iconName>
@@ -154,7 +154,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mob6581q-wyqx01nx5</odePageId>
+          <odePageId>page-mob6ozjd-haxandpae</odePageId>
           <odeBlockId>block-1776682040846-ns8k83l4v</odeBlockId>
           <odeIdeviceId>idevice-1776682040845-47bgrjuvu</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -189,7 +189,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mob6581t-85zx0puv9</odePageId>
+  <odePageId>page-mob6ozjh-1syf8yr55</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Presentación del proyecto</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -225,7 +225,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mob6581t-85zx0puv9</odePageId>
+      <odePageId>page-mob6ozjh-1syf8yr55</odePageId>
       <odeBlockId>block-1776682188255-xigt7sl7h</odeBlockId>
       <blockName>Presentación</blockName>
       <iconName></iconName>
@@ -254,7 +254,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mob6581t-85zx0puv9</odePageId>
+          <odePageId>page-mob6ozjh-1syf8yr55</odePageId>
           <odeBlockId>block-1776682188255-xigt7sl7h</odeBlockId>
           <odeIdeviceId>idevice-1776682188253-k4lvd36go</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -285,7 +285,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mob6581u-8g3dc7syi</odePageId>
+  <odePageId>page-mob6ozji-enfl07vwx</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Situación de aprendizaje</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
@@ -321,7 +321,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mob6581u-8g3dc7syi</odePageId>
+      <odePageId>page-mob6ozji-enfl07vwx</odePageId>
       <odeBlockId>block-1776682347391-rdb8arh4r</odeBlockId>
       <blockName>Tu misión</blockName>
       <iconName></iconName>
@@ -350,7 +350,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mob6581u-8g3dc7syi</odePageId>
+          <odePageId>page-mob6ozji-enfl07vwx</odePageId>
           <odeBlockId>block-1776682347391-rdb8arh4r</odeBlockId>
           <odeIdeviceId>idevice-1776682347388-qooqt7qzj</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -388,7 +388,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mob6581v-9osdaco0l</odePageId>
+  <odePageId>page-mob6ozjj-jj5t1kqye</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Recursos</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
@@ -424,7 +424,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mob6581v-9osdaco0l</odePageId>
+      <odePageId>page-mob6ozjj-jj5t1kqye</odePageId>
       <odeBlockId>block-1776682495963-hjdxr0vd9</odeBlockId>
       <blockName>Recursos a trabajar</blockName>
       <iconName></iconName>
@@ -453,7 +453,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mob6581v-9osdaco0l</odePageId>
+          <odePageId>page-mob6ozjj-jj5t1kqye</odePageId>
           <odeBlockId>block-1776682495963-hjdxr0vd9</odeBlockId>
           <odeIdeviceId>idevice-1776682495961-tt5p40h52</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -482,7 +482,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mob6581v-9osdaco0l</odePageId>
+      <odePageId>page-mob6ozjj-jj5t1kqye</odePageId>
       <odeBlockId>block-1776682614505-42eflegyy</odeBlockId>
       <blockName>Padlet</blockName>
       <iconName></iconName>
@@ -511,7 +511,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mob6581v-9osdaco0l</odePageId>
+          <odePageId>page-mob6ozjj-jj5t1kqye</odePageId>
           <odeBlockId>block-1776682614505-42eflegyy</odeBlockId>
           <odeIdeviceId>idevice-1776682614504-vyv1if4m3</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -541,7 +541,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mob6581v-9osdaco0l</odePageId>
+      <odePageId>page-mob6ozjj-jj5t1kqye</odePageId>
       <odeBlockId>block-1776682711899-ynmhrlzdf</odeBlockId>
       <blockName>Recursos</blockName>
       <iconName></iconName>
@@ -570,7 +570,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mob6581v-9osdaco0l</odePageId>
+          <odePageId>page-mob6ozjj-jj5t1kqye</odePageId>
           <odeBlockId>block-1776682711899-ynmhrlzdf</odeBlockId>
           <odeIdeviceId>idevice-1776682711897-012asmpsl</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -599,7 +599,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mob6581w-hqkmc4dnq</odePageId>
+  <odePageId>page-mob6ozjl-s5qwpbxb2</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Actividades</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
@@ -635,7 +635,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mob6581w-hqkmc4dnq</odePageId>
+      <odePageId>page-mob6ozjl-s5qwpbxb2</odePageId>
       <odeBlockId>block-1776682819611-z4t09781k</odeBlockId>
       <blockName>Desarrollo del proyecto</blockName>
       <iconName></iconName>
@@ -664,7 +664,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mob6581w-hqkmc4dnq</odePageId>
+          <odePageId>page-mob6ozjl-s5qwpbxb2</odePageId>
           <odeBlockId>block-1776682819611-z4t09781k</odeBlockId>
           <odeIdeviceId>idevice-1776682819608-c9eh0tvte</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -692,7 +692,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mob6581w-hqkmc4dnq</odePageId>
+      <odePageId>page-mob6ozjl-s5qwpbxb2</odePageId>
       <odeBlockId>block-1776682855742-0vf9zcg4t</odeBlockId>
       <blockName>Organizar por sesiones</blockName>
       <iconName></iconName>
@@ -721,7 +721,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mob6581w-hqkmc4dnq</odePageId>
+          <odePageId>page-mob6ozjl-s5qwpbxb2</odePageId>
           <odeBlockId>block-1776682855742-0vf9zcg4t</odeBlockId>
           <odeIdeviceId>idevice-1776682855741-4uc7zzfj0</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -754,7 +754,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mob6581w-hqkmc4dnq</odePageId>
+      <odePageId>page-mob6ozjl-s5qwpbxb2</odePageId>
       <odeBlockId>block-1776683037510-9s683o794</odeBlockId>
       <blockName>Línea temporal</blockName>
       <iconName></iconName>
@@ -783,7 +783,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mob6581w-hqkmc4dnq</odePageId>
+          <odePageId>page-mob6ozjl-s5qwpbxb2</odePageId>
           <odeBlockId>block-1776683037510-9s683o794</odeBlockId>
           <odeIdeviceId>idevice-1776683037508-0qeosq7gs</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -810,7 +810,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mob6581w-hqkmc4dnq</odePageId>
+      <odePageId>page-mob6ozjl-s5qwpbxb2</odePageId>
       <odeBlockId>block-1776683227197-nmb0g75ek</odeBlockId>
       <blockName>¿Cómo vas a trabajar?</blockName>
       <iconName></iconName>
@@ -839,7 +839,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mob6581w-hqkmc4dnq</odePageId>
+          <odePageId>page-mob6ozjl-s5qwpbxb2</odePageId>
           <odeBlockId>block-1776683227197-nmb0g75ek</odeBlockId>
           <odeIdeviceId>idevice-1776683227197-du0k1d8zj</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -868,7 +868,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mob6581x-u3sjidc0b</odePageId>
+  <odePageId>page-mob6ozjn-bg3rluic7</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Producto final</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
@@ -904,7 +904,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mob6581x-u3sjidc0b</odePageId>
+      <odePageId>page-mob6ozjn-bg3rluic7</odePageId>
       <odeBlockId>block-1776683283310-n0s2pprsg</odeBlockId>
       <blockName>Producto final</blockName>
       <iconName></iconName>
@@ -933,7 +933,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mob6581x-u3sjidc0b</odePageId>
+          <odePageId>page-mob6ozjn-bg3rluic7</odePageId>
           <odeBlockId>block-1776683283310-n0s2pprsg</odeBlockId>
           <odeIdeviceId>idevice-1776683283308-561puomr7</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -963,7 +963,7 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mob6581x-u3sjidc0b</odePageId>
+      <odePageId>page-mob6ozjn-bg3rluic7</odePageId>
       <odeBlockId>block-1776683924625-g5pfqwevr</odeBlockId>
       <blockName>Herramientas</blockName>
       <iconName></iconName>
@@ -992,7 +992,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mob6581x-u3sjidc0b</odePageId>
+          <odePageId>page-mob6ozjn-bg3rluic7</odePageId>
           <odeBlockId>block-1776683924625-g5pfqwevr</odeBlockId>
           <odeIdeviceId>idevice-1776683924623-ydtwo7ok2</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1024,7 +1024,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mob6581y-fsh7zpof6</odePageId>
+  <odePageId>page-mob6ozjo-9ydfzqnk1</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Evaluación</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
@@ -1060,7 +1060,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mob6581y-fsh7zpof6</odePageId>
+      <odePageId>page-mob6ozjo-9ydfzqnk1</odePageId>
       <odeBlockId>block-1776683342938-cjjil0oxk</odeBlockId>
       <blockName>¿Cómo se evalúa?</blockName>
       <iconName></iconName>
@@ -1089,7 +1089,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mob6581y-fsh7zpof6</odePageId>
+          <odePageId>page-mob6ozjo-9ydfzqnk1</odePageId>
           <odeBlockId>block-1776683342938-cjjil0oxk</odeBlockId>
           <odeIdeviceId>idevice-1776683342936-v48h9hj0a</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1122,7 +1122,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mob6581y-9ss2wqver</odePageId>
+  <odePageId>page-mob6ozjp-x4utqnxfj</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Seguridad y protección de datos</pageName>
   <odeNavStructureOrder>7</odeNavStructureOrder>
@@ -1158,7 +1158,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mob6581y-9ss2wqver</odePageId>
+      <odePageId>page-mob6ozjp-x4utqnxfj</odePageId>
       <odeBlockId>block-1776683505010-gshnprfek</odeBlockId>
       <blockName>Uso responsable de la tecnología</blockName>
       <iconName></iconName>
@@ -1187,7 +1187,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mob6581y-9ss2wqver</odePageId>
+          <odePageId>page-mob6ozjp-x4utqnxfj</odePageId>
           <odeBlockId>block-1776683505010-gshnprfek</odeBlockId>
           <odeIdeviceId>idevice-1776683505008-pj7iiuzci</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1217,7 +1217,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mob6581y-441nuxw75</odePageId>
+  <odePageId>page-mob6ozjp-5cc1u98l1</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Guía didáctica</pageName>
   <odeNavStructureOrder>8</odeNavStructureOrder>
@@ -1253,7 +1253,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mob6581y-441nuxw75</odePageId>
+      <odePageId>page-mob6ozjp-5cc1u98l1</odePageId>
       <odeBlockId>block-1776683572917-2w0wb7kli</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -1282,7 +1282,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mob6581y-441nuxw75</odePageId>
+          <odePageId>page-mob6ozjp-5cc1u98l1</odePageId>
           <odeBlockId>block-1776683572917-2w0wb7kli</odeBlockId>
           <odeIdeviceId>idevice-1776683572916-g8kg2xycd</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1316,7 +1316,7 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-mob6581z-quak2v3n8</odePageId>
+  <odePageId>page-mob6ozjq-jpt4jc9b5</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Créditos</pageName>
   <odeNavStructureOrder>9</odeNavStructureOrder>
@@ -1352,7 +1352,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-mob6581z-quak2v3n8</odePageId>
+      <odePageId>page-mob6ozjq-jpt4jc9b5</odePageId>
       <odeBlockId>block-1776683671921-k0x7utevc</odeBlockId>
       <blockName>Créditos</blockName>
       <iconName></iconName>
@@ -1381,7 +1381,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mob6581z-quak2v3n8</odePageId>
+          <odePageId>page-mob6ozjq-jpt4jc9b5</odePageId>
           <odeBlockId>block-1776683671921-k0x7utevc</odeBlockId>
           <odeIdeviceId>idevice-1776683671920-zvt41wl8n</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -1412,8 +1412,8 @@
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-mob6581z-quak2v3n8</odePageId>
-      <odeBlockId>block-1776929843067-ul8mou1mg</odeBlockId>
+      <odePageId>page-mob6ozjq-jpt4jc9b5</odePageId>
+      <odeBlockId>block-1776930642081-5lsk5c9cw</odeBlockId>
       <blockName>Descargar el archivo fuente</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
@@ -1441,9 +1441,9 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-mob6581z-quak2v3n8</odePageId>
-          <odeBlockId>block-1776929843067-ul8mou1mg</odeBlockId>
-          <odeIdeviceId>idevice-1776929843065-onfthc2yh</odeIdeviceId>
+          <odePageId>page-mob6ozjq-jpt4jc9b5</odePageId>
+          <odeBlockId>block-1776930642081-5lsk5c9cw</odeBlockId>
+          <odeIdeviceId>idevice-1776930642080-guotirgt1</odeIdeviceId>
           <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
 <tbody>
@@ -1469,6 +1469,18 @@
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
